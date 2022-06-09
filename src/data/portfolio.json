@@ -1,0 +1,30 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Netflix Decentralized Clone",
+            "description": "React, Js, HTML, CSS,MorzalisAPI",
+            "url": "https://github.com/sahasrocks/Netflix-Decentralized-Clone"
+        },
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": "Bookmarker Chrome Extension",
+            "description": "Js, HTML, CSS",
+            "url": "https://github.com/sahasrocks/Bookmarker-Chrome-Extension"
+        },
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "Contact Manager",
+            "description": "Python , SQL",
+            "url": "https://github.com/sahasrocks/Contact-list"
+        },
+        {
+            "cover": "/portfolio/1/five.png",
+            "title": "Ping Pong  Game",
+            "description": "Python",
+            "url": "https://github.com/sahasrocks/PingPong-Mobile-App"
+        }
+    
+        
+    ]
+}
