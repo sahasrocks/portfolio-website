@@ -52,6 +52,10 @@ const About = () => {
             
           onClick={() => window.open("https://drive.google.com/file/d/1pERU7ninoP_mG2W0DWDJ1DmST3Q3NYZP/view?usp=sharing")}
           >Download Resume </button></div>
+            <div  ><button className="flat-button" 
+            
+            onClick={() => window.open("https://linktr.ee/sahaslakhote")}
+            >Coding Profiles </button></div>
         </div>
         
 
