@@ -50,7 +50,7 @@ const About = () => {
           </p> */}
           <div  ><button className="flat-button"
             
-          onClick={() => window.open("https://drive.google.com/file/d/1I3rrhyyEQM0LLJale34TxnX77wcj7-ba/view")}
+          onClick={() => window.open("https://drive.google.com/file/d/16clAspqnscvPs_EWJhUdDvTOHxe9FIHp/view")}
           >Download Resume </button></div>
             <div  ><button className="flat-button" 
             
